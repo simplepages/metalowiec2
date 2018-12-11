@@ -1,0 +1,11 @@
+div#mainmenu a.selected {
+	background			: url(../images/mainmenu-arrow.gif) no-repeat 50% 0;
+}
+
+div#minimap a#mm-shop2 {
+	width						: 126px;
+}
+div#minimap a#mm-shop3 {
+	width						: 126px;
+	padding					: 7px 0 0 22px;
+}
